@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### I'm Interested in learning more about mathematical proofs with lean.
+
 <!--
 **ArathBC/ArathBC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
